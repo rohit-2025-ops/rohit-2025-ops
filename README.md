@@ -1,63 +1,88 @@
-<h1 align="center">Hi 👋, I'm Rohit Dutta</h1>
-<h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast | Generative AI Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rohit+Dutta;Data+Analyst+%7C+ML+Enthusiast;Generative+AI+Learner;Always+Learning+New+Things🚀" />
+</h1>
+
+<h3 align="center">🚀 Turning Data into Insights | Exploring AI & ML</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohit-2025-ops&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rohit-2025-ops&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rohit-2025-ops?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/rohit-2025-ops?label=Stars&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **Sentiment Analysis using LSTM**
-- 🌱 Learning **Deep Learning, Neural Networks, and Generative AI**
-- 💡 Interested in **Machine Learning, Data Analytics, NLP, and AI Applications**
-- 🎯 Goal: Becoming a skilled **ML Engineer / Data Scientist**
-- 📫 Reach me at: **duttarohit2006@gmail.com**
+## 🧠 About Me
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🔭 Working on **Sentiment Analysis using LSTM**
+- 🌱 Learning **Deep Learning & Generative AI**
+- 💡 Love solving **real-world problems with data**
+- 🎯 Goal: **ML Engineer / Data Scientist**
+- ⚡ Fun fact: *I debug more than I code 😄*
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/rohit-dutta-7b6a09406/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+## 🌐 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/rohit-dutta-7b6a09406/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-<a href="https://github.com/rohit-2025-ops" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/rohit-2025-ops">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,mongodb,html,css,git,github,linux,tensorflow,pytorch,django,docker" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,mongodb,html,css,git,github,linux,tensorflow,pytorch,docker,django" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-2025-ops&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-2025-ops&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohit-2025-ops&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2025-ops&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2025-ops&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2025-ops&layout=compact&theme=tokyonight" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2025-ops&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohit-2025-ops&theme=algolia&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=rohit-2025-ops&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## ✨ Quote
+## 🐍 Contribution Snake
 <p align="center">
-  <i>"Learning never exhausts the mind, it only sharpens it."</i>
+<img src="https://raw.githubusercontent.com/rohit-2025-ops/rohit-2025-ops/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎧 Coding Vibes
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=novatorem" />
+</p>
+
+---
+
+## ✨ Quote of the Day
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
