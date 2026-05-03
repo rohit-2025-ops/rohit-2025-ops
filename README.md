@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rohit+Dutta;Data+Analyst+%7C+ML+Enthusiast;Generative+AI+Learner;Always+Learning+New+Things🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rohit+Dutta;Data+Analyst+%7C+ML+Enthusiast;Generative+AI+Learner;Turning+Data+into+Insights🚀" />
 </h1>
 
-<h3 align="center">🚀 Turning Data into Insights | Exploring AI & ML</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning | Generative AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohit-2025-ops&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=rohit-2025-ops&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/rohit-2025-ops?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/rohit-2025-ops?label=Stars&style=for-the-badge" />
 </p>
@@ -16,14 +16,14 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔭 Working on **Sentiment Analysis using LSTM**
-- 🌱 Learning **Deep Learning & Generative AI**
-- 💡 Love solving **real-world problems with data**
-- 🎯 Goal: **ML Engineer / Data Scientist**
-- ⚡ Fun fact: *I debug more than I code 😄*
+- 🌱 Learning **Deep Learning, Neural Networks & Generative AI**
+- 💡 Passionate about **Data Analysis & AI-driven solutions**
+- 🎯 Goal: Become a **Machine Learning Engineer / Data Scientist**
+- 📫 Email: **duttarohit2006@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-dutta-7b6a09406/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
@@ -42,7 +42,7 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-2025-ops&theme=react-dark&hide_border=true" />
 </p>
@@ -75,14 +75,7 @@
 
 ---
 
-## 🎧 Coding Vibes
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=novatorem" />
-</p>
-
----
-
-## ✨ Quote of the Day
+## ✨ Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
