@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rohit-dutta-7b6a09406">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" alt="Open to Internships"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="Open to Internships"/>
   <img src="https://komarev.com/ghpvc/?username=rohit-2025-ops&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
