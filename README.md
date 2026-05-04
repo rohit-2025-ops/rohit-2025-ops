@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" alt="Open to Internships"/>
-  <img src="https://komarev.com/ghpvc/?username=rohitdutta&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohit-2025-ops&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
 ---
@@ -71,12 +71,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitdutta&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdutta&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-2025-ops&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2025-ops&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdutta&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2025-ops&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
